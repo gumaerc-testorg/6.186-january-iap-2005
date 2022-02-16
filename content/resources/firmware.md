@@ -7,8 +7,12 @@ description: 'This supplementary ZIP file contains: 3 .a files, 2 .pdf files, 18
   .mp files, 113 .o files, 5 .pcb files, 3 .rom files, 24 .s files, 3 .soc files,
   6 .svg files, 12 .txt files, 5 .tpl files, 3 .zip files, 3 .wnp files, 7 .xml files,
   and 2 .xsl files.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/7aba26ceeff0ca86b0dce5e88fefa38f_firmware.zip
+file: /media/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/7aba26ceeff0ca86b0dce5e88fefa38f_firmware.zip
 file_type: application/zip
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Other
 title: firmware.zip
 uid: 7aba26ce-eff0-ca86-b0dc-e5e88fefa38f

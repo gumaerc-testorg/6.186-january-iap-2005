@@ -3,8 +3,12 @@ content_type: resource
 description: 'Computer programming tutorial covering the following topics: introduction,
   image processing in maslab, the hsv color space, finding red blobs, blue line filtering,
   and red ball finding.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/4bb009d5aa96787baa6487115debb721_imagetutorial.pdf
+file: /media/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/4bb009d5aa96787baa6487115debb721_imagetutorial.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: imagetutorial.pdf
 uid: 4bb009d5-aa96-787b-aa64-87115debb721

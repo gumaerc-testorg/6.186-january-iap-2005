@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: c0dffda4-2dfa-d732-aa49-e962865d69c7
 ---
@@ -179,7 +182,7 @@ Activity: Mock Contest 1
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Programming 27 Robots: Distributed Algorithms for Robot Swarms and Engineering Creativity: Exercises for your Right Brain
+Programming 2{{< sup "7" >}} Robots: Distributed Algorithms for Robot Swarms and Engineering Creativity: Exercises for your Right Brain
 {{< tdclose >}}
 {{< tdopen >}}
  

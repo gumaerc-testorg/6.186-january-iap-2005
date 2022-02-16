@@ -14,8 +14,13 @@ description: 'This resource includes topics like: planning and strategery, mecha
   by mechanical engineers, there?s so much that could have gone wrong, results, and
 
   lessons learned.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/779f7b03e90c88f887912367711b097c_teamthreepaper.pdf
+file: /media/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/779f7b03e90c88f887912367711b097c_teamthreepaper.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: teamthreepaper.pdf
 uid: 779f7b03-e90c-88f8-8791-2367711b097c

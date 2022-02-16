@@ -2,8 +2,12 @@
 content_type: resource
 description: 'Workshop details divided into sections: general guidelines, scroll saw
   guidelines, and drill press guidelines.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/0ee43a860387a10f377c8aa671ada9e0_maslabworkshop.pdf
+file: /media/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/0ee43a860387a10f377c8aa671ada9e0_maslabworkshop.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: maslabworkshop.pdf
 uid: 0ee43a86-0387-a10f-377c-8aa671ada9e0

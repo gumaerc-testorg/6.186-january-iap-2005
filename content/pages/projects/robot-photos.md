@@ -1,12 +1,16 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7d323111-f06a-c924-e3bc-43855e549030
 title: Robot Photos
 uid: 0ed644b1-5409-2fa4-e5ba-7c083a9717c6
 ---
 
-{{< image-gallery id="0ed644b1-5409-2fa4-e5ba-7c083a9717c6_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/" >}}
+{{< image-gallery id="0ed644b1-5409-2fa4-e5ba-7c083a9717c6_nanogallery2" baseUrl="/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/" >}}
 {{< image-gallery-item href="9c8a6982d7b8a45f57831cc61bd7dcf6_1.jpg" data-ngdesc="Team 1 robot. Image courtesy of the course staff." text="Team 1 robot." >}}
 {{< image-gallery-item href="0453e44b7a000809234faf1ac0f496b2_2.jpg" data-ngdesc="Team 2 robot. Image courtesy of the course staff." text="Team 2 robot." >}}
 {{< image-gallery-item href="088f2f749a168ffe8f4d2eb82411ab67_3.jpg" data-ngdesc="Team 3 robot. Image courtesy of the course staff." text="Team 3 robot." >}}

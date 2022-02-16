@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 1756cdca-3e13-2287-083e-b3a98b5c43d8
 ---
@@ -188,7 +190,7 @@ Activity: Mock Contest 1
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture: Programming 27 Robots: Distributed Algorithms for Robot Swarms and Engineering Creativity: Exercises for your Right Brain
+Lecture: Programming 2{{< sup "7" >}} Robots: Distributed Algorithms for Robot Swarms and Engineering Creativity: Exercises for your Right Brain
 {{< tdclose >}}
 
 {{< trclose >}}
