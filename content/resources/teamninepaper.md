@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7d323111-f06a-c924-e3bc-43855e549030
 resourcetype: Document
 title: teamninepaper.pdf
 uid: 28c05582-75f4-a0e7-a880-597a9d246104

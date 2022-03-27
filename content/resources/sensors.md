@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c0dffda4-2dfa-d732-aa49-e962865d69c7
 resourcetype: Document
 title: sensors.pdf
 uid: 9775875a-049c-6723-6b1d-465744ca15c7

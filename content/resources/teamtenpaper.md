@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7d323111-f06a-c924-e3bc-43855e549030
 resourcetype: Document
 title: teamtenpaper.pdf
 uid: a3a800be-a9d7-ed7d-0cb9-76f206502130

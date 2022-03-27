@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7d323111-f06a-c924-e3bc-43855e549030
 resourcetype: Document
 title: teamfifteenpaper.pdf
 uid: 9e914d31-b742-7c34-2bbd-5c03890b87c0

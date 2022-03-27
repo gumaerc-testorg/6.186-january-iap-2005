@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 333dc54b-398d-6355-d9a7-69d32bc03e3c
 resourcetype: Document
 title: build_xml.pdf
 uid: 0fa50084-9012-d943-4d56-e725417a3d29

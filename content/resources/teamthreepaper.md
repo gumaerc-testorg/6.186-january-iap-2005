@@ -21,6 +21,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7d323111-f06a-c924-e3bc-43855e549030
 resourcetype: Document
 title: teamthreepaper.pdf
 uid: 779f7b03-e90c-88f8-8791-2367711b097c

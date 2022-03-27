@@ -15,4 +15,4 @@ General API Information
 
 [Sun's Java®Tutorials](http://java.sun.com/docs/books/tutorial/): online tutorials in many Java®topics.
 
-Ed Faulkner's Java® Quick Reference ([TXT](/courses/electrical-engineering-and-computer-science/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/related-resources/javareference.txt))
+Ed Faulkner's Java® Quick Reference ([TXT]({{< baseurl >}}/resources/javareference))

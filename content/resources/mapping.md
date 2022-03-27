@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c0dffda4-2dfa-d732-aa49-e962865d69c7
 resourcetype: Document
 title: mapping.pdf
 uid: d2642bd4-1019-7d7b-cf03-d69a420ff07a

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: df8d5ade-86fe-8828-7465-ec98c13bba1c
 resourcetype: Document
 title: sensorpointtable.pdf
 uid: e5678fba-924a-c922-3183-6fa9927cc781

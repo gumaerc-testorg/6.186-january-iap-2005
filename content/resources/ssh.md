@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 333dc54b-398d-6355-d9a7-69d32bc03e3c
 resourcetype: Document
 title: ssh.pdf
 uid: 7e9dae2b-2220-81e6-2f09-d84161eaedeb

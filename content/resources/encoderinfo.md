@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: df8d5ade-86fe-8828-7465-ec98c13bba1c
 resourcetype: Document
 title: encoderinfo.pdf
 uid: e34c534a-f46e-e69a-fd21-b478dbfa647a

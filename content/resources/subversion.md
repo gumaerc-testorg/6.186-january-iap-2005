@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 333dc54b-398d-6355-d9a7-69d32bc03e3c
 resourcetype: Document
 title: subversion.pdf
 uid: 08b82662-7b7f-d220-f818-6507d5ffd4e8

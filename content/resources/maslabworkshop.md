@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: df8d5ade-86fe-8828-7465-ec98c13bba1c
 resourcetype: Document
 title: maslabworkshop.pdf
 uid: 0ee43a86-0387-a10f-377c-8aa671ada9e0

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c0dffda4-2dfa-d732-aa49-e962865d69c7
 resourcetype: Document
 title: morevision.pdf
 uid: ede1ed75-f3cf-c660-5902-48f02abf23ee

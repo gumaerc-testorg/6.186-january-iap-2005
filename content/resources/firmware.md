@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: df8d5ade-86fe-8828-7465-ec98c13bba1c
 resourcetype: Other
 title: firmware.zip
 uid: 7aba26ce-eff0-ca86-b0dc-e5e88fefa38f

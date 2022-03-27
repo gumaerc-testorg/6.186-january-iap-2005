@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: df8d5ade-86fe-8828-7465-ec98c13bba1c
 resourcetype: Document
 title: contestrules.pdf
 uid: e6f471b5-38c7-d2ad-5d71-48a5613a9cfa

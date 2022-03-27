@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: df8d5ade-86fe-8828-7465-ec98c13bba1c
 resourcetype: Other
 title: maslabhardware.zip
 uid: 1d0b4f7f-7c2e-9a99-b0fe-924ab0ac3e2c
