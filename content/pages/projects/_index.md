@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section contains team photos, robot photos, and team papers.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: 7d323111-f06a-c924-e3bc-43855e549030
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section features pictures of the 6.186 teams with their robots, and portrait photographs of the robots. In addition, the [final papers](#papers) of all teams are provided. Photos and projects appear courtesy of the students named and are used with permission.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Executable File.
-file: /media/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/24b350fbe7fa9713025607610a643164_javareference.txt
+file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/24b350fbe7fa9713025607610a643164_javareference.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: javareference.txt
 uid: 24b350fb-e7fa-9713-0256-07610a643164
 ---
+Executable File.
+

@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This section contains general API information, and 2 external links containing
+  java help documentation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 09a3597b-ec0d-9028-acc7-12d3cf689474
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 General API Information
@@ -15,4 +21,4 @@ General API Information
 
 [Sun's Java®Tutorials](http://java.sun.com/docs/books/tutorial/): online tutorials in many Java®topics.
 
-Ed Faulkner's Java® Quick Reference ([TXT]({{< baseurl >}}/resources/javareference))
+Ed Faulkner's Java® Quick Reference ({{% resource_link 24b350fb-e7fa-9713-0256-07610a643164 "TXT" %}})

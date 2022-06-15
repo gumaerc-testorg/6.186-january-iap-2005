@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This section contains the different lecture topics and activities taught
+  day wise.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 1756cdca-3e13-2287-083e-b3a98b5c43d8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
