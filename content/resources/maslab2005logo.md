@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: maslab2005logo.jpg
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 The Course Logo. (Image courtesy of the 6.186 organizers.)
-

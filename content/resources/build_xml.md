@@ -5,6 +5,7 @@ file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/0fa50
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection

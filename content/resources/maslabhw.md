@@ -4,6 +4,7 @@ description: The ZIP file contains 801 files.
 file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/9d71292d2743149258ea91e69c4f4f83_maslabhw.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 The ZIP file contains 801 files.
-

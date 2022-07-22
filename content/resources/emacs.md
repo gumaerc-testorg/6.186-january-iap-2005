@@ -6,6 +6,7 @@ file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/5d90e
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains details about: Emacs, Some notes on getting the most out of the GNU Emacs text editor.
-

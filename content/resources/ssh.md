@@ -6,6 +6,7 @@ file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/7e9da
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains details about SSH: Tool for logging into other machines remotely. Also has info on scp, which copies files to and from other machines.
-
