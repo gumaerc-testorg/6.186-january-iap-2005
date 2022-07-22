@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section contains team photos, robot photos, and team papers.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 7d323111-f06a-c924-e3bc-43855e549030
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section features pictures of the 6.186 teams with their robots, and portrait photographs of the robots. In addition, the [final papers](#papers) of all teams are provided. Photos and projects appear courtesy of the students named and are used with permission.
@@ -10,7 +18,7 @@ Pictures
 --------
 
 ### Team Photos
-{{< image-gallery id="7d323111-f06a-c924-e3bc-43855e549030_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/" >}}
+{{< image-gallery id="7d323111-f06a-c924-e3bc-43855e549030_nanogallery2" baseUrl="/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/" >}}
 {{< image-gallery-item href="2ca2917c27015e2620e525bd1213ced0_1.jpg" data-ngdesc="Team 1. Image courtesy of the course staff." text="Team 1." >}}
 {{< image-gallery-item href="567487f1f579e63a0196b59243ed34e2_2.jpg" data-ngdesc="Team 2. Image courtesy of the course staff." text="Team 2." >}}
 {{< image-gallery-item href="4fdebb48221c5d52bb796b512c379377_3.jpg" data-ngdesc="Team 3. Image courtesy of the course staff." text="Team 3." >}}

@@ -1,13 +1,23 @@
 ---
 content_type: page
+description: This section contains details of the activities of three days, two check
+  point details, design review guidelines, daily wiki guidelines, and final paper
+  guidelines.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: fe05b02f-3888-f48a-ef89-85059bf6481d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Day One
 -------
 
-1.  Solder the orc pad in your kit assembly guide ([PDF]({{< baseurl >}}/resources/orcpadassem)) and show it to a staff member
+1.  Solder the orc pad in your kit assembly guide ({{% resource_link f57efc5b-c8ae-c572-e03f-87f6f0db1283 "PDF" %}}) and show it to a staff member
 2.  The staff member will check your soldering and give you the chip and lcd for the orc pad, as well as your gyro sensor
 3.  Complete the orc pad assembly
 4.  Write a hello world program for your eden
@@ -31,7 +41,7 @@ Day Two
 Day Three
 ---------
 
-1.  Finish Day Two activities if you haven't done so (including BotClient) ([PDF]({{< baseurl >}}/resources/botclient))
+1.  Finish Day Two activities if you haven't done so (including BotClient) ({{% resource_link 3dffb566-7cd2-550c-a7d7-aefc25bd7e88 "PDF" %}})
 2.  Feature detection. The staff member will place a random bar code in front of your robot (with a plain background, in a vertical position). Publish on the bot client how many green squares are on the strip
 3.  Work on the first checkpoint (find red ball and move towards it) for Friday and building your robot
 

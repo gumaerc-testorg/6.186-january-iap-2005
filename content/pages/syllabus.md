@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This syllabus section contains details of course policies, mentors and
+  checkoffs, daily wiki guidelines, and lab cleanup schedule.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f5f6643e-8cf1-f719-9245-5d40e4f5a4e9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -17,7 +25,7 @@ Course Policies
 MASLab is a for-credit course with 6 units of P/F and 6 engineering design points. Only passing teams with passing members will be allowed to keep their equipment (except for the computer). There are a number of requirements to receive a passing grade, including:
 
 *   Adequate effort and time invested in MASLab
-*   Attend mandatory meetings/events (see [calendar]({{< baseurl >}}/pages/calendar))
+*   Attend mandatory meetings/events (see {{% resource_link 1756cdca-3e13-2287-083e-b3a98b5c43d8 "calendar" %}})
 *   Majority of work in lab
 *   Completion of "[checkpoints](#checkpoints)"
 *   Make [daily lab entries](#wiki) (few sentences minimum)
