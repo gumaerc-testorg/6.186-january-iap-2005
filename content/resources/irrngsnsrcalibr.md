@@ -2,6 +2,7 @@
 content_type: resource
 description: MATLAB code needed for an assignment.
 file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/098d9ebe48a31a28163615393842e23b_irrngsnsrcalibr.pdf
+file_size: 17005
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

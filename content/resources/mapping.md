@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture presentation covering the following topics: mapping and navigation.'
 file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/d2642bd410197d7bcf03d69a420ff07a_mapping.pdf
+file_size: 400010
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
