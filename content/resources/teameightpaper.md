@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource includes topics like: control, vision, combine, and storage
   and release.'
 file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/6ae4749d42e1bddcbae71375f8bee4c7_teameightpaper.pdf
+file_size: 20926
 file_type: application/pdf
 learning_resource_types:
 - Projects

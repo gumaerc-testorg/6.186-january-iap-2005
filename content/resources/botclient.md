@@ -3,6 +3,7 @@ content_type: resource
 description: This handout contains information about BotClient, the tool for viewing
   remote channel data.
 file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/3dffb5667cd2550ca7d7aefc25bd7e88_botclient.pdf
+file_size: 19197
 file_type: application/pdf
 learning_resource_types:
 - Tools

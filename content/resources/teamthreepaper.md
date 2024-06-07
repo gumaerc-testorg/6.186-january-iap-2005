@@ -15,6 +15,7 @@ description: 'This resource includes topics like: planning and strategery, mecha
 
   lessons learned.'
 file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/779f7b03e90c88f887912367711b097c_teamthreepaper.pdf
+file_size: 255271
 file_type: application/pdf
 learning_resource_types:
 - Projects

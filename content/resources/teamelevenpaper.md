@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource includes topics like: mechanical design, control system,
   image processing, and summary and final competition.'
 file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/9cc98c47f265614ea62593c950a8fcf7_teamelevenpaper.pdf
+file_size: 31520
 file_type: application/pdf
 learning_resource_types:
 - Projects

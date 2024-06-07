@@ -2,6 +2,7 @@
 content_type: resource
 description: Executable File.
 file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/24b350fbe7fa9713025607610a643164_javareference.txt
+file_size: 16962
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

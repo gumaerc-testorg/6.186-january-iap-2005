@@ -4,6 +4,7 @@ description: 'This resource includes topics like: overall strategy, mechanical d
   and sensors, software design, overall performance, and conclusion and suggestion
   for future teams.'
 file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/fc304099439de486a65f75bcedbbff83_teamonepaper.pdf
+file_size: 201495
 file_type: application/pdf
 learning_resource_types:
 - Projects
