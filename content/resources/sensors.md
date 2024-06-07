@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture presentation covering the following topics: types of sensors,
   and cables.'
 file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/9775875a049c67236b1d465744ca15c7_sensors.pdf
+file_size: 431959
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

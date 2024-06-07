@@ -2,6 +2,7 @@
 content_type: resource
 description: Table of items and their respective values.
 file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/e5678fba924ac92231836fa9927cc781_sensorpointtable.pdf
+file_size: 14284
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

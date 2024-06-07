@@ -4,6 +4,7 @@ description: 'Lecture presentation covering the following topics: logistics, cou
   policies and philosophy, content preview and ORC API preview, and assembling the
   ORC pad and pegbot.'
 file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/d139fe13987372b9d936d19093fe6f19_overview.pdf
+file_size: 351992
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

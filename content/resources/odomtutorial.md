@@ -2,6 +2,7 @@
 content_type: resource
 description: Primer on odometry and motor control.
 file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/764fafce112bed6482c61f1593bd0977_odomtutorial.pdf
+file_size: 895017
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
