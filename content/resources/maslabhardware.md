@@ -6,7 +6,7 @@ description: 'This ZIP file contains: 3 .a files, 2 .pdf files, 180 .asm files, 
   files, 128 .lis files, 3 .lst files, 3 .sch files, 3 .mk files, 3 .mp files, 113
   .o files, 5 .pcb files, 3 .rom files, 24 .s files, 3 .soc files, 6 .svg files, 12
   .txt files, 5 .tpl files, 3 .zip files, 3 .wnp files, 7 .xml files, and 2 .xsl files.'
-file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/1d0b4f7f7c2e9a99b0fe924ab0ac3e2c_maslabhardware.zip
+file: /ol-ocw-studio-app/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/1d0b4f7f7c2e9a99b0fe924ab0ac3e2c_maslabhardware.zip
 file_size: 5312968
 file_type: application/zip
 learning_resource_types: []
