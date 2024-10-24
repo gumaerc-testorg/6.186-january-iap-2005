@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab equipment information.
-file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/e3eea307ab7f9f8ead4f7e8f811d41ca_kitcontents.pdf
+file: /ol-ocw-studio-app/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/e3eea307ab7f9f8ead4f7e8f811d41ca_kitcontents.pdf
 file_size: 20112
 file_type: application/pdf
 learning_resource_types: []
