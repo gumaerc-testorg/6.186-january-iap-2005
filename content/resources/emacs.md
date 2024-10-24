@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains details about: Emacs, Some notes on getting the
   most out of the GNU Emacs text editor.'
-file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/5d90e104d0bbfe179e0ee84ee1ff1b9f_emacs.pdf
+file: /ol-ocw-studio-app/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/5d90e104d0bbfe179e0ee84ee1ff1b9f_emacs.pdf
 file_size: 12022
 file_type: application/pdf
 learning_resource_types:
