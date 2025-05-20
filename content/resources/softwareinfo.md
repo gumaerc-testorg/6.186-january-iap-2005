@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/689c1ab973e6fafb97ab8720d1cf612d_softwareinfo.pdf
+file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/689c1ab973e6fafb97ab8720d1cf612d_softwareinfo.pdf
 file_size: 21166
 file_type: application/pdf
 learning_resource_types:

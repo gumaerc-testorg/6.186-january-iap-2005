@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Specifications table for equipment to be used in the course.
-file: /ol-ocw-studio-app/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/45d367d74eced2181d976ac18aeb0a67_drivemotorinfo.pdf
+file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/45d367d74eced2181d976ac18aeb0a67_drivemotorinfo.pdf
 file_size: 19205
 file_type: application/pdf
 learning_resource_types: []
