@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture presentation covering the following topic: control for mobile
   robots.'
-file: /ol-ocw-studio-app/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/e9a9513ff1f5ba25866c372a721ff6a4_control.pdf
+file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/e9a9513ff1f5ba25866c372a721ff6a4_control.pdf
 file_size: 387688
 file_type: application/pdf
 learning_resource_types:

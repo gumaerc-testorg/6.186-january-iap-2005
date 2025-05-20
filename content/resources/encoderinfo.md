@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Information about encoder kit contents and assembly.
-file: /ol-ocw-studio-app/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/e34c534af46ee69afd21b478dbfa647a_encoderinfo.pdf
+file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/e34c534af46ee69afd21b478dbfa647a_encoderinfo.pdf
 file_size: 23073
 file_type: application/pdf
 learning_resource_types: []
