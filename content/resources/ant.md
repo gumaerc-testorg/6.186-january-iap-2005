@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the details about Ant: A tool that can automatically
   build and upload your code.'
-file: /ol-ocw-studio-app/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/ce68d3563892fd55e1c6ed5892b20f98_ant.pdf
+file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/ce68d3563892fd55e1c6ed5892b20f98_ant.pdf
 file_size: 35123
 file_type: application/pdf
 learning_resource_types:

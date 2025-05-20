@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes topics like: introduction, mechanical design,
   software, and conclusion.'
-file: /ol-ocw-studio-app/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/b34e09056e9e602d3679f41fe5036067_teamsixpaper.pdf
+file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/b34e09056e9e602d3679f41fe5036067_teamsixpaper.pdf
 file_size: 23858
 file_type: application/pdf
 learning_resource_types:

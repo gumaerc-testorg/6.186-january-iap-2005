@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture presentation covering the following topics: stereo vision, rigid
   body motion, edge detection, and optical flow and EM algorithm to locate objects.'
-file: /ol-ocw-studio-app/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/ede1ed75f3cfc660590248f02abf23ee_morevision.pdf
+file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/ede1ed75f3cfc660590248f02abf23ee_morevision.pdf
 file_size: 534934
 file_type: application/pdf
 learning_resource_types:
