@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tutorial on how to solder, make cables, low-level information.
-file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/63aebf3527e3ec5e2878c821bd6bd762_orcmanual.pdf
+file: /ol-ocw-studio-app/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/63aebf3527e3ec5e2878c821bd6bd762_orcmanual.pdf
 file_size: 1004616
 file_type: application/pdf
 learning_resource_types: []

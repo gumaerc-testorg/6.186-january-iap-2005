@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains details about CVS: A tool for managing your source
   code amongst your teammates.'
-file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/bf317326d575e7781653b4b3de58ea49_cvs.pdf
+file: /ol-ocw-studio-app/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/bf317326d575e7781653b4b3de58ea49_cvs.pdf
 file_size: 19657
 file_type: application/pdf
 learning_resource_types:
