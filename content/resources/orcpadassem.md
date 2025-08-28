@@ -2,7 +2,7 @@
 content_type: resource
 description: This contains information about orcpad and instructions to complete the
   board.
-file: /courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/f57efc5bc8aec572e03f87f6f0db1283_orcpadassem.pdf
+file: /ol-ocw-studio-app/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/f57efc5bc8aec572e03f87f6f0db1283_orcpadassem.pdf
 file_size: 647631
 file_type: application/pdf
 learning_resource_types: []
