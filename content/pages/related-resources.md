@@ -17,8 +17,8 @@ General API Information
 
 [MASLab API](/ans7870/6/6.186/maslab/index.htm): documentation on the MASLab custom software: [Orc](/ans7870/6/6.186/maslab/maslab/orc/package-summary.html), [Camera](/ans7870/6/6.186/maslab/maslab/camera/package-summary.html), Channel, etc.
 
-{{% resource_link "25beb511-0e40-4c63-bdfa-7f071243837e" "Java® Standard API" %}}: documentation on the standard Java® classes.
+[Java® Standard API](http://java.sun.com/j2se/1.5.0/docs/api/): documentation on the standard Java® classes.
 
-{{% resource_link "e05fb301-a5c0-4900-ab9c-80787264c974" "Sun's Java®Tutorials" %}}: online tutorials in many Java®topics.
+[Sun's Java®Tutorials](http://java.sun.com/docs/books/tutorial/): online tutorials in many Java®topics.
 
 Ed Faulkner's Java® Quick Reference ({{% resource_link 24b350fb-e7fa-9713-0256-07610a643164 "TXT" %}})
